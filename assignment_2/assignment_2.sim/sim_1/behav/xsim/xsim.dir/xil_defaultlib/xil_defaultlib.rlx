@@ -1,0 +1,22 @@
+0.6
+2017.4
+Dec 15 2017
+21:07:18
+C:/Users/Owen/OneDrive/Documents/College/CS2022/assignment_2/assignment_2.srcs/sources_1/imports/new/decoder_2to4.vhd,1520889988,vhdl,,,,decoder_2to4,,,,,,,,
+C:/Users/Owen/OneDrive/Documents/College/CS2022/assignment_2/assignment_2.srcs/sources_1/imports/new/decoder_3to8.vhd,1520889988,vhdl,,,,decoder_3to8,,,,,,,,
+C:/Users/Owen/OneDrive/Documents/College/CS2022/assignment_2/assignment_2.srcs/sources_1/imports/new/mux2_16bit.vhd,1520889988,vhdl,,,,mux2_16bit,,,,,,,,
+C:/Users/Owen/OneDrive/Documents/College/CS2022/assignment_2/assignment_2.srcs/sources_1/imports/new/mux4_16bit.vhd,1520889988,vhdl,,,,mux4_16bit,,,,,,,,
+C:/Users/Owen/OneDrive/Documents/College/CS2022/assignment_2/assignment_2.srcs/sources_1/imports/new/mux8_16bit.vhd,1520889988,vhdl,,,,mux8_16bit,,,,,,,,
+C:/Users/Owen/OneDrive/Documents/College/CS2022/assignment_2/assignment_2.srcs/sources_1/imports/new/reg16.vhd,1520889988,vhdl,,,,reg16,,,,,,,,
+C:/Users/Owen/OneDrive/Documents/College/CS2022/assignment_2/assignment_2.srcs/sources_1/imports/new/reg_file.vhd,1520889988,vhdl,,,,reg_file,,,,,,,,
+C:/Users/Owen/OneDrive/Documents/College/CS2022/assignment_2/assignment_2.srcs/sources_1/new/ALU.vhd,1520889988,vhdl,,,,alu,,,,,,,,
+C:/Users/Owen/OneDrive/Documents/College/CS2022/assignment_2/assignment_2.srcs/sources_1/new/ArithmeticUnit16bit.vhd,1520889988,vhdl,,,,arithmeticunit16bit,,,,,,,,
+C:/Users/Owen/OneDrive/Documents/College/CS2022/assignment_2/assignment_2.srcs/sources_1/new/B input Logic.vhd,1520889988,vhdl,,,,b_input_logic,,,,,,,,
+C:/Users/Owen/OneDrive/Documents/College/CS2022/assignment_2/assignment_2.srcs/sources_1/new/FullAdder.vhd,1520889988,vhdl,,,,fulladder,,,,,,,,
+C:/Users/Owen/OneDrive/Documents/College/CS2022/assignment_2/assignment_2.srcs/sources_1/new/LogicUnit16bit.vhd,1520889988,vhdl,,,,logicunit16bit,,,,,,,,
+C:/Users/Owen/OneDrive/Documents/College/CS2022/assignment_2/assignment_2.srcs/sources_1/new/LogicUnitSlice.vhd,1520889988,vhdl,,,,logicunitslice,,,,,,,,
+C:/Users/Owen/OneDrive/Documents/College/CS2022/assignment_2/assignment_2.srcs/sources_1/new/RippleCarryAdder.vhd,1520889988,vhdl,,,,ripplecarryadder,,,,,,,,
+C:/Users/Owen/OneDrive/Documents/College/CS2022/assignment_2/assignment_2.srcs/sources_1/new/Shifter.vhd,1520889988,vhdl,,,,shifter,,,,,,,,
+C:/Users/Owen/OneDrive/Documents/College/CS2022/assignment_2/assignment_2.srcs/sources_1/new/ZeroDetect.vhd,1520892679,vhdl,,,,zerodetect,,,,,,,,
+C:/Users/Owen/OneDrive/Documents/College/CS2022/assignment_2/assignment_2.srcs/sources_1/new/entirety.vhd,1520889988,vhdl,,,,entirety,,,,,,,,
+C:/Users/Owen/OneDrive/Documents/College/CS2022/assignment_2/assignment_2.srcs/sources_1/new/function_Unit.vhd,1520889988,vhdl,,,,function_unit,,,,,,,,

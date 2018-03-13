@@ -42,7 +42,7 @@ begin
     process (number)
 		begin
 		case number is
-			when "0" => Zero_flag <= '1';
+			when "0000000000000000" => Zero_flag <= '1';
 			when others => Zero_flag <= '0';
 		end case;
 	end process;
